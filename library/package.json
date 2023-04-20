@@ -1,0 +1,28 @@
+{
+  "name": "html-uncomment",
+  "version": "1.0.0",
+  "description": "Remove HTML comments from a string",
+  "main": "html-uncomment.js",
+  "exports": {
+    "import": "./html-uncomment.js",
+    "require": "./html-uncomment.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/html-uncomment.js.git"
+  },
+  "keywords": [
+    "html",
+    "html-uncomment",
+    "remove-html-comments",
+    "strip-html-comments",
+    "html-comments"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/html-uncomment.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/html-uncomment.js#readme"
+}

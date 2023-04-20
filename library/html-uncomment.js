@@ -1,0 +1,1 @@
+export function htmlUncomment(t){return t.replaceAll(/<\!--.*?-->/g,'')}export default htmlUncomment;

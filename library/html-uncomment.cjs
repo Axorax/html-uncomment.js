@@ -1,0 +1,1 @@
+function htmlUncomment(e){return e.replaceAll(/<\!--.*?-->/g,"")}module.exports=htmlUncomment
